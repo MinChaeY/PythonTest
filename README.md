@@ -11,4 +11,8 @@
 
 # 수상 현황
 
+발표 동영상
+
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=BycpPeGWM-c">
+
 # 취미
